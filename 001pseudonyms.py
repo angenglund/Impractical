@@ -23,7 +23,7 @@ def main():
              'Schlomo', 'Scratchensniff', 'Scut', "Sid 'The Squirts'",
              'Skidmark', 'Slaps', 'Snakes', 'Snoobs', 'Snorki', 'Soupcan Sam',
              'Spitzitout', 'Squids', 'Stinky', 'Storyboard', 'Sweet Tea',
-             'TeeTee', 'Wheezy Joe', "Winston 'Jazz Hands'", 'Worms')
+             'TeeTee', 'Wheezy Joe', "Winston 'Jazz Hands'", 'Worms', 'Abs')
 
     last = ('Appleyard', 'Bigmeat', 'Bloominshine', 'Boogerbottom',
             'Breedslovetrout', 'Butterbaugh', 'Clovenhoof', 'Clutterbuck',
