@@ -8,20 +8,20 @@
 #         Append word to anagrams list
 # Print anagrams list
 
-import load_dictonary
+import load_dictionary
 
-word_list = load_dictonary.load('2of4brif.txt')
+word_list = load_dictionary.load('2of4brif.txt')
 
 anagram_list = []
 
-# input a SINGLE word or SINGLE name below to find its anagram(s):
+# input a SINGLE word or SINGLE name below to find its anagram(s):load_dictonary
 name = 'Foster'
 print("Input name = {}".format(name))
 name = name.lower()
 print("Using name = {}".format(name))
-
+5 + 5
 # sort name & find anagrams
-name_sorted = sorted(name_sorted)
+name_sorted = sorted(name)
 for word in word_list:
     word = word.lower()
     if word != name:
