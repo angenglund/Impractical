@@ -15,11 +15,11 @@ word_list = load_dictionary.load('2of4brif.txt')
 anagram_list = []
 
 # input a SINGLE word or SINGLE name below to find its anagram(s):load_dictonary
-name = 'Foster'
+name = 'forest'
 print("Input name = {}".format(name))
 name = name.lower()
 print("Using name = {}".format(name))
-5 + 5
+
 # sort name & find anagrams
 name_sorted = sorted(name)
 for word in word_list:
